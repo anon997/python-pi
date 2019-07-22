@@ -1,6 +1,6 @@
 def main(msg):
-	//Adding a different comment
-	//Print a message
+	//No comments needed
 	print(msg)
-
+def secondary():
+	print("goodbye")
 main("Hello People")
