@@ -3,4 +3,5 @@ def main(msg):
 	print(msg)
 def secondary():
 	print("goodbye")
+
 main("Hello People")
